@@ -1,2 +1,3 @@
-# wash
-企业介绍页网站模板，很清新
+# smile.github.io
+个人blog
+http://wxgit.github.io/wash
